@@ -6,7 +6,7 @@ I am a Computer Science undergrad at PUC Minas.
 
 🔭 I’m currently working on <strong>Natural Language Processing</strong> at <a href="https://iris-research.com/" target="_blank">Iris Research</a> and on <strong>Front-End Freelancing</strong> Projects using React
 
-🌱 I’m currently studying Data Science at <a href="https://letscode.com.br/" target="_blank">Let's Code</a>. Check out my Data Science Portfolio!! I've created a repo with some of my projects.
+🌱 I’m currently studying Data Science at <a href="https://letscode.com.br/" target="_blank">Let's Code</a>. Check out my Data Science <a href="https://github.com/HenriqueCastros/Data-Science-Portfolio">Portfolio</a>!! I've created a repo with some of my projects.
 
 📫 Let's connect!! 
 <a href="https://www.linkedin.com/in/henrique-castro-e-silva/">
