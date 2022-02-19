@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-I am a Computer Science undergrad that's currently studying at PUC Minas.
+I am a Computer Science undergrad at PUC Minas.
 
 🔭 I’m currently working on <strong>Natural Language Processing</strong> at <a href="https://iris-research.com/" target="_blank">Iris Research</a> and on <strong>Front-End Freelancing</strong> Projects using React
 
