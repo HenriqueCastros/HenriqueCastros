@@ -15,7 +15,7 @@ I am a Computer Science undergrad that's currently studying at PUC Minas.
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
 </a>
 
-⚡ Fun fact: I also like coding some very unuseful tools such as Game of Life vizualizer 😂😂
+⚡ Fun fact: I also like coding some very unuseful tools such as <a href="https://github.com/HenriqueCastros/ConwayGameOfLife">Game of Life</a> vizualizer 😂😂
 
 ### Cool stuff I like coding
 <code><img width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
