@@ -4,7 +4,7 @@
 
 I am a Computer Science undergrad at PUC Minas.
 
-🔭 I’m currently working on <strong>Natural Language Processing</strong> and on <strong>Front-End Freelancing</strong> Projects using React
+🔭 I’m currently working with <strong>Node as a Software Engeneer</strong> and on <strong>Front-End Freelancing</strong> Projects using React
 
 🌱 I’m currently studying Data Science at <a href="https://letscode.com.br/" target="_blank">Let's Code</a>. Check out my Data Science <a href="https://github.com/HenriqueCastros/Data-Science-Portfolio">Portfolio</a>!! I've created a repo with some of my projects.
 
